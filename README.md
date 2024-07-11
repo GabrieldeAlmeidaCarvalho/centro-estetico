@@ -1,10 +1,5 @@
 # Centro Estético
 
-`Tecnologia em Análise e Desenvolvimento de Sistemas`
-
-`Eixo 5 - Projeto: Desenvolvimento de um Sistema Sociotécnico Inovador`
-
-`5º semestre`
 
 Um projeto desenvolvido exclusivamente para um centro estético com o intuito de ajudar no relacionamento e desenvolvimento do cliente e um pouco da administração do negócio.
 
@@ -17,9 +12,6 @@ Um projeto desenvolvido exclusivamente para um centro estético com o intuito de
 * Rafael Pacheco Leite
 * João Victor Ramires Guimarães Brito
 
-## Orientador
-
-* Sandra Maria Silveira
 
 ## Instruções de utilização
 
